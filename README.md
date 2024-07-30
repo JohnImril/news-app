@@ -49,10 +49,7 @@ This project is a news platform built with React and TypeScript. It fetches news
 
 ## Testing
 
-To run the tests, use the following command:
-`sh
-    npm test
-    `
+To run the tests, use the following command: `npm test`
 
 ## Technologies
 

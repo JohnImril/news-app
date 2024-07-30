@@ -1,0 +1,28 @@
+.news-item {
+	background-color: white;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	transition: transform 0.2s ease;
+}
+
+.news-item:hover {
+	transform: translateY(-10px);
+}
+
+.news-item h2 {
+	font-size: 1.5rem;
+	margin: 10px 0;
+}
+
+.news-item p {
+	margin: 5px 0;
+}
+
+.news-item img {
+	max-width: 100%;
+	border-radius: 10px;
+}
+
+.news-item .ant-btn {
+	margin-top: 10px;
+}

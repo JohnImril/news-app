@@ -9,7 +9,6 @@ This project is a news platform built with React and TypeScript. It fetches news
 -   [Usage](#usage)
 -   [Testing](#testing)
 -   [Technologies](#technologies)
--   [Folder Structure](#folder-structure)
 -   [Contributing](#contributing)
 -   [License](#license)
 
@@ -51,10 +50,9 @@ This project is a news platform built with React and TypeScript. It fetches news
 ## Testing
 
 To run the tests, use the following command:
-
-    ```sh
+`sh
     npm test
-    ```
+    `
 
 ## Technologies
 
